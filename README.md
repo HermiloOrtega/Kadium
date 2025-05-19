@@ -18,12 +18,19 @@ The site was already developed when I joined the team, but my role was crucial i
 - **Server Management:** Oversaw plugin compatibility, security patches, and updates.
 
 ## ⚙️ Tech Stack
-- **Platform:** WordPress
-- **Builder:** Beaver Builder
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, MySQL
-- **Hosting:** Dedicated server managed by Epic Inspired
-- **Tools:** Adobe Photoshop, cPanel, Cloudflare (for DNS and CDN)
+| **Category**              | **Tools & Frameworks** |
+|---------------------------|------------------------|
+| **Platform / CMS**        | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **Page Builder**          | ![Beaver Builder](https://img.shields.io/badge/Beaver%20Builder-B28F5E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48cmVjdCB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIGZpbGw9JyNiMjhmNWUnLz48L3N2Zz4=&logoColor=white) |
+| **Frontend**              | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Database**              | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Language**              | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Hosting**               | ![Self-hosted](https://img.shields.io/badge/Self--Hosted-000000?style=for-the-badge&logo=serverfault&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) |
+| **Design Tools**          | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
+| **CRM** | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) |
+| **APIs & Integrations**   | ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Analytics**             | ![Google Analytics](https://img.shields.io/badge/Analytics-e37400?logo=googleanalytics&logoColor=white&style=for-the-badge) |
+| **Security & Performance**| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge) |
 
 ## 🏗 Architecture & Design
 - Modular page design using Beaver Builder components.
